@@ -1,5 +1,8 @@
 # Hi, I'm Sami Ullah Khan 👋
 
+<p align="center">
+  <img src="./Gemini_Generated_Image_f1tcbf1tcbf1tcbf.jpg" alt="Sami Ullah Khan" width="180" height="180" />
+</p>
 ### 💻 Frontend Web Developer | Firebase Specialist
 
 I'm a passionate **Frontend Web Developer** who enjoys building responsive, modern, and user-friendly web applications using React.js and modern web technologies.
