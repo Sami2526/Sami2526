@@ -1,26 +1,26 @@
-# Hi, I'm Sami Ullah Khan 👋
+<h1 align="center">Hi, I'm Sami Ullah Khan 👋</h1>
+<h3 align="center">💻 Frontend Web Developer | Firebase Specialist</h3>
 
 <p align="center">
-  <img src="./Gemini_Generated_Image_f1tcbf1tcbf1tcbf.jpg" alt="Sami Ullah Khan" width="180" height="180" />
+  <img src="https://github.com/user-attachments/assets/9c3f869a-9b78-4123-b5db-885e9032d1b5" alt="Sami Ullah Khan Header Banner" width="100%" />
 </p>
-
-
-
-
-### 💻 Frontend Web Developer | Firebase Specialist
 
 I'm a passionate **Frontend Web Developer** who enjoys building responsive, modern, and user-friendly web applications using React.js and modern web technologies.
 
 I love transforming ideas into interactive digital experiences with clean UI, reusable components, and maintainable code. I'm continuously learning new technologies and improving my development skills.
 
+---
+
 ### 🚀 About Me
 
-- 🔭 Currently working on React.js and full-stack web development projects.
-- 🌱 Learning advanced React, Redux Toolkit, Node.js, and MongoDB.
-- 💬 Ask me about React.js, JavaScript, Tailwind CSS, Firebase, and REST APIs.
-- 🎯 Goal: To become a skilled Full-Stack Developer and build impactful web applications.
-- 📍 Based in Pakistan.
-- 🌐 Portfolio: [Visit My Portfolio](https://portfolio-new-kappa-mocha.vercel.app/)
+- 🔭 **Currently working on:** React.js and full-stack web development projects.
+- 🌱 **Learning:** Advanced React, Redux Toolkit, Node.js, and MongoDB.
+- 💬 **Ask me about:** React.js, JavaScript, Tailwind CSS, Firebase, and REST APIs.
+- 🎯 **Goal:** To become a skilled Full-Stack Developer and build impactful web applications.
+- 📍 **Based in:** Pakistan.
+- 🌐 **Portfolio:** [Visit My Portfolio](https://portfolio-new-kappa-mocha.vercel.app/)
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -35,38 +35,46 @@ I love transforming ideas into interactive digital experiences with clean UI, re
 - Node.js, Express.js, MongoDB
 - REST APIs
 
-**Tools**
+**Tools & Hosting**
 - Git & GitHub
 - VS Code
 - Cloudinary
 - Vercel
 
+---
+
 ### 💼 Featured Projects
 
 **1. Wavix – Real-Time Chat Application**
-- Built with React.js and Firebase.
+- Built with **React.js** and **Firebase**.
 - Real-time messaging and authentication.
 - Cloudinary integration for media uploads.
 
 **2. MediBook – Doctor Appointment Platform**
-- Developed using React.js and Firebase.
+- Developed using **React.js** and **Firebase**.
 - Online appointment booking and user management.
 - Responsive user interface.
 
 **3. JobNest – Job Portal**
-- MERN stack job portal project.
+- **MERN stack** job portal project.
 - Features user authentication, company profiles, and job listings.
 
-### 📊 GitHub Profile
+---
+
+### 📊 GitHub Profile & Overview
 
 - 💻 I enjoy building practical projects and learning by doing.
 - 🤝 Open to collaboration, learning opportunities, and frontend developer roles.
 
+---
+
 ### 📫 Connect With Me
 
-- **Portfolio:** https://portfolio-new-kappa-mocha.vercel.app/
-- **GitHub:** https://github.com/Sami2526
+- 🌐 **Portfolio:** [portfolio-new-kappa-mocha.vercel.app](https://portfolio-new-kappa-mocha.vercel.app/)
+- 🐙 **GitHub:** [github.com/Sami2526](https://github.com/Sami2526)
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+<p align="center">
+  ⭐ <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
+</p>
